@@ -1,5 +1,5 @@
 # inter_workshop
-Workshop materials for ODSC 2019 Interpretability Talk
+Workshop materials for ODSC 2019-2020 Interpretability Talk
 
 The Notebooks here are to show:
 1. [Reading Skills Variable Importance](https://github.com/rajshah4/inter_workshop/blob/master/Reading%20Skills%20-%20Variable%20Importances.ipynb), which shows how split based importance is misleading compared to permutation based approach.  
